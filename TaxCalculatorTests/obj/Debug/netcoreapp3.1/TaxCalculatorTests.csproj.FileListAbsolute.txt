@@ -1,0 +1,5 @@
+C:\Practice\Tax Calculator\TaxCalculatorTests\obj\Debug\netcoreapp3.1\TaxCalculatorTests.csproj.AssemblyReference.cache
+C:\Practice\Tax Calculator\TaxCalculatorTests\obj\Debug\netcoreapp3.1\TaxCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Tax Calculator\TaxCalculatorTests\obj\Debug\netcoreapp3.1\TaxCalculatorTests.AssemblyInfoInputs.cache
+C:\Practice\Tax Calculator\TaxCalculatorTests\obj\Debug\netcoreapp3.1\TaxCalculatorTests.AssemblyInfo.cs
+C:\Practice\Tax Calculator\TaxCalculatorTests\obj\Debug\netcoreapp3.1\TaxCalculatorTests.csproj.CoreCompileInputs.cache
